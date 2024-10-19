@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.mainContainer {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #ff8542;
+  font-family: 'Roboto';
+}
+
+.todosUlContainer {
+  list-style-type: none;
+  text-align: center;
+  width: 100%;
+}
